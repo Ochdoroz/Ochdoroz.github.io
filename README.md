@@ -1,1 +1,0 @@
-# Ochdoroz.github.io
