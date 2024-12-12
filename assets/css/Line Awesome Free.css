@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'Line Awesome Free';
+	src: url(../../assets/fonts/Line%20Awesome%20Free-7f5bc6716a6d493e4ed737f0ee8dfb00.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Line%20Awesome%20Free-7f5bc6716a6d493e4ed737f0ee8dfb00.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Line%20Awesome%20Free-d7d0e525af6745a3eff4d038867fe13b.woff2) format('woff2'),
+	url(../../assets/fonts/Line%20Awesome%20Free-4a8e755e8fa0dd6ca11d9b774ebbb3b8.woff) format('woff'),
+	url(../../assets/fonts/Line%20Awesome%20Free-7452af07d3726eb9b94d3f5adb32f377.ttf) format('truetype'),
+	url(../../assets/fonts/Line%20Awesome%20Free-ee32bbf4183c8933c3f0929a687a3ed6.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Line Awesome Free';
+	src: url(../../assets/fonts/Line%20Awesome%20Free-569823ca32056d98dda7b491b0df3efb.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Line%20Awesome%20Free-569823ca32056d98dda7b491b0df3efb.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Line%20Awesome%20Free-210f5f8611f6c7adce1f21ded855450e.woff2) format('woff2'),
+	url(../../assets/fonts/Line%20Awesome%20Free-1acbfe8844341f6855bea0567132ccd7.woff) format('woff'),
+	url(../../assets/fonts/Line%20Awesome%20Free-1c90d8ad07d318714420dac4da644789.ttf) format('truetype'),
+	url(../../assets/fonts/Line%20Awesome%20Free-5c7eec92efbec55487c4df5be6ad57ad.svg) format('svg');
+	font-weight: 900;
+	font-style: normal;
+	font-display: auto;
+}

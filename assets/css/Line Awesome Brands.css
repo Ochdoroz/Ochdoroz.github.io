@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Line Awesome Brands';
+	src: url(../../assets/fonts/Line%20Awesome%20Brands-25f03a4ef5ec8a3bb81f84acc60ee5f1.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Line%20Awesome%20Brands-25f03a4ef5ec8a3bb81f84acc60ee5f1.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Line%20Awesome%20Brands-078b87bbe2540b016518324910be3a05.woff2) format('woff2'),
+	url(../../assets/fonts/Line%20Awesome%20Brands-b0e30f78447b025f0e3b2afda1587195.woff) format('woff'),
+	url(../../assets/fonts/Line%20Awesome%20Brands-dad9fcbebbefcca7d68456bd42162e8e.ttf) format('truetype'),
+	url(../../assets/fonts/Line%20Awesome%20Brands-22c8190682ec80e04f1bb008fe8ad11c.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}
